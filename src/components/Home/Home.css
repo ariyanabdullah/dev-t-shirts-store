@@ -1,0 +1,11 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    margin-top: 20px;
+    margin-left: 3%;
+    margin-right: 2%;
+}
+
+.shirt-container {
+    margin-right: 3%;
+}
